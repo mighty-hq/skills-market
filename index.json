@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "key": "refund-requests",
+      "name": "Refund requests",
+      "description": "Handle a customer's refund request from the support desk. Find the order, check what was paid, refunded and shipped against the store's own policy, then propose the refund or the return and the reply.",
+      "url": "https://raw.githubusercontent.com/mighty-hq/skills-market/main/skills/refund-requests/SKILL.md",
+      "bytes": 3952,
+      "sha256": "be49c7ceb135037878cfb12fde5540c269de4aa43c534ac35968797ccdb60dc0"
+    }
+  ]
+}
